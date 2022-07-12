@@ -1,0 +1,10 @@
+.title {
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: rgb(218, 193, 241);
+}
+
+* {
+    text-align: center;
+}
