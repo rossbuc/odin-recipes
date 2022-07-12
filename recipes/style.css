@@ -1,4 +1,4 @@
-.h1 {
+h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     font-size:  24px;
@@ -8,7 +8,7 @@ img {
     background-color: burlywood;
 }
 
-.p {
+p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
     font-size: 16px;
