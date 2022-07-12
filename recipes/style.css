@@ -1,0 +1,30 @@
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size:  24px;
+    background-color: rgb(223, 171, 103);
+}
+img {
+    background-color: burlywood;
+}
+
+.p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: rgb(255, 228, 194);
+}
+
+h2, h3 {
+    background-color: rgb(252, 231, 204);
+}
+
+ul  {
+    background-color: rgb(252, 233, 209);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ol {
+    background-color: rgb(247, 234, 218);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
